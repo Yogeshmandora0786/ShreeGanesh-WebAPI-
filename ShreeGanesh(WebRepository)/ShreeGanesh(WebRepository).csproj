@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OperationDomian\OperationDomian.csproj" />
+    <ProjectReference Include="..\ShreeGanesh(WebDomian)\ShreeGanesh(WebDomian).csproj" />
   </ItemGroup>
 
 </Project>
